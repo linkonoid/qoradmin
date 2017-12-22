@@ -14,11 +14,6 @@
 .glide/
 
 # Project specific
-*.css
-*.css.map
-*.js
-*.js.map
-*.scss
 *.exe
 *.zip
 /db/*.db
@@ -26,6 +21,5 @@ db/seeds/main
 config/database*yml
 config/*.yml
 public/downloads
-public/stylesheets
 vendor/*
 build.bat
