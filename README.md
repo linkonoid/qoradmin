@@ -1,7 +1,7 @@
 # qoradmin
 QOR-Example create admin-panel for easy projects with authentification
 
-Tiny example for create Admin-panel on Qor (github.com/qor/) for business application with users authentication, i18n and Sqlite base (see in publisher repositarium two example: 1- very light and no have Authentication; 2- very hard and use for storage Mysql - it's no good for alls little projects). Qor tries to keep to the MVC-principle of building applications. All Qor models based on Gorm (github.com/jinzhu/gorm, it's best ORM for Golang).
+Tiny example for create Admin-panel on QOR SDK (github.com/qor/) for business application with users authentication, i18n and Sqlite base (see in publisher repositarium two example: 1- very light and no have Authentication; 2- very hard and use for storage Mysql - it's no good for alls little projects). Qor tries to keep to the MVC-principle of building applications. All Qor models based on Gorm (github.com/jinzhu/gorm, it's best ORM for Golang).
 
 For compile runs this steps:
 1) Install Qor and dependies from github.com/qor/
